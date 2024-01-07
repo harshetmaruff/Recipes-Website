@@ -1,0 +1,32 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 0px;
+}
+
+#topic {
+    text-align: center;
+}
+
+img {
+    padding-top: 10px;
+}
+
+ul li,
+ol li {
+    width: fit-content;
+    list-style-position: outside;
+    text-align: left;
+}
+
+ul li {
+    margin-left: 45%;  
+}
+
+ol li {
+    padding-bottom: 10px;
+}
+
+ol.add-margin {
+    margin-left: 40%;
+}
