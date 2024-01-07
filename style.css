@@ -17,14 +17,11 @@ ol li {
     width: fit-content;
     list-style-position: outside;
     text-align: left;
+    padding-bottom: 10px;  
 }
 
 ul li {
     margin-left: 45%;  
-}
-
-ol li {
-    padding-bottom: 10px;
 }
 
 ol.add-margin {
